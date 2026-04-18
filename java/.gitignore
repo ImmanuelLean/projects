@@ -1,0 +1,13 @@
+*.class
+*.jar
+*.log
+demo.db
+test_output.txt
+sample.txt
+sample_nio.txt
+.idea/
+*.iml
+.vscode/
+bin/
+out/
+target/
