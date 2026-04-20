@@ -1,0 +1,16 @@
+*.o
+*.out
+*.exe
+*.bin
+*.dat
+*.log
+*.gch
+*.dSYM/
+.vscode/
+.idea/
+build/
+cmake-build*/
+raii_test.txt
+sample.txt
+data.bin
+students.csv
