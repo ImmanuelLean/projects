@@ -166,4 +166,18 @@ Then add the same key on https://github.com/settings/keys as a **Signing key**.
 4. ✅ Passphrase on `~/.ssh/id_ed25519`
 5. ✅ Never commit `.env` files
 
+---
+
+## Status on this machine (as of setup)
+
+- [x] 2FA enabled via Microsoft Authenticator
+- [x] Recovery codes downloaded & stored safely
+- [x] SSH Authentication key registered on GitHub
+- [x] SSH Signing key registered on GitHub
+- [x] Signed commits enabled globally (`commit.gpgsign=true`)
+- [x] Global `.gitignore` blocking `.env`, keys, secrets
+- [ ] Passphrase on `~/.ssh/id_ed25519` *(pending)*
+- [ ] 2FA on Gmail *(pending)*
+
 Do those five and you've eliminated 99% of the realistic ways to lose this account.
+
