@@ -4,6 +4,13 @@
     "ecmel.vscode-html-css",
     "formulahendry.auto-rename-tag",
     "ritwickdey.LiveServer",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "usernamehw.errorlens",
+    "eamodio.gitlens",
+    "bradlc.vscode-tailwindcss",
+    "humao.rest-client",
+    "christian-kohler.path-intellisense",
+    "mikestead.dotenv",
+    "pkief.material-icon-theme"
   ]
 }
